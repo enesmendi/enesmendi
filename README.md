@@ -39,10 +39,10 @@
 
 <details>
 <summary>:bulb: Github Stats</summary>
-<img  align='left' src="https://github-readme-stats.vercel.app/api?username=enesmendi&theme=onedark" >
+<img  src="https://github-readme-stats.vercel.app/api?username=enesmendi&theme=onedark" >
 </details>
 
 <details>
 <summary>:bulb:  Most Used Languages</summary>
-<img  align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesmendi&layout=compact" >
+<img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesmendi&layout=compact" >
 </details>
